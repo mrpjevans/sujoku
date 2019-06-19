@@ -59,6 +59,12 @@ Defaults are in brackets
   --puzzle PUZZLE      Puzzle number 1-50 (otherwise random)
 ```
 
+## Add Grids
+
+The grids are intentionally simple file format and stored in grids.txt.
+
+To add your own, append a blank line followed by nine lines of nine numbers,
+using 0 for blank spaces. Add as many as you like!
 
 ## Disclaimer
 
